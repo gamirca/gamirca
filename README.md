@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabriel, a beginner developer currently learning JavaScript.
+
 
 <!---
 gamirca/gamirca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
